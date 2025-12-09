@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 42075ca1f2d57734980646f8ffe185fb, type: 3}
-  m_Name: Default Fish
+  m_Name: Shark
   m_EditorClassIdentifier: Assembly-CSharp::FishData
-  maxSpeed: 3.92
-  maxForce: 0.1
-  neighborhoodRadius: 5.29
-  separationRadius: 3.6
+  maxSpeed: 5.1
+  maxForce: 0.134
+  neighborhoodRadius: 3.97
+  separationRadius: 1.02
   separationAmount: 1
   cohesionAmount: 1
   alignmentAmount: 1
